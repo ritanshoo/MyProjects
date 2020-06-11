@@ -1,0 +1,25 @@
+body{
+    font-family: "Helvetica Neue",sans-serif;
+	font-size: 18px;
+}
+.dropdown-item:hover{
+    background: linear-gradient(45deg,darkslategray,black);
+    color: white !important;
+    box-shadow: 0 5px 5px black;
+}
+.bg-teal , .btn-teal{
+    background-color: #002f2f !important;
+}
+.bg-light-blue{
+    background-color: lightblue;
+}
+.bg-light-green{
+    background-color: lightgreen;
+}
+.bg-light-red{
+    background: lightsalmon;
+}
+.p-image{
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+}
